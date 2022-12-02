@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nodemon server.js",
+  "scripts": {
+    "test": "ok"
+  },
+  "keywords": [
+    "crud"
+  ],
+  "author": "Imane Q",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
